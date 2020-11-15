@@ -3,7 +3,7 @@
     {
       "name": "John Doe",
       "phone": "910928392098",
-      "address": "123 Sun Street",
+      "address": "HOMESWEETHOME",
       "membership": "Platinum",
       "id": 1
     },
@@ -11,7 +11,7 @@
       "name": "Mary Johnson",
       "phone": "808937482734",
       "address": "893 Main Voulevard",
-      "membership": "Pro",
+      "membership": "Platinum",
       "id": 2
     }
   ]
